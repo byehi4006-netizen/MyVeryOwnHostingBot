@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "VrbAt.aternos.me:54648",
+    "ip": "VrbAt.aternos.me",
     "port": 54648,
     "version": "1.21.1"
   },
